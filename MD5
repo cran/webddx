@@ -1,0 +1,9 @@
+5528590993b00cfe3ad4b37ae619fb75 *DESCRIPTION
+ee34c81ea53c774a121aa15620a32490 *NAMESPACE
+b4f3bc074f6b57138ee44b3df1a919ed *R/findzebra.R
+d41d8cd98f00b204e9800998ecf8427e *R/omim.R
+e3c4a8fee1ed1d59d17b5825e1f680cd *README.md
+ea8e69ad2e6774a89ddd56d27703c96a *man/query_fz.Rd
+fc4026c0f2b61fadde3f4a41aefcd8c7 *tests/testthat.R
+60ac3a0fda2fdb80c39faadbfce03caa *tests/testthat/testfz_error.R
+b3acf7daab9a7b81f467d81c3bf8b451 *tests/testthat/testfz_normal.R
